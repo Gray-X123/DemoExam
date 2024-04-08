@@ -1,0 +1,11 @@
+E:\Учёба\Test\bin\Debug\Test.exe.config
+E:\Учёба\Test\bin\Debug\Test.exe
+E:\Учёба\Test\bin\Debug\Test.pdb
+E:\Учёба\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+E:\Учёба\Test\obj\Debug\Test.Form1.resources
+E:\Учёба\Test\obj\Debug\Test.Form2.resources
+E:\Учёба\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Учёба\Test\obj\Debug\Test.csproj.GenerateResource.cache
+E:\Учёба\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Учёба\Test\obj\Debug\Test.exe
+E:\Учёба\Test\obj\Debug\Test.pdb
