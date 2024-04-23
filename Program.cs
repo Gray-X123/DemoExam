@@ -5,9 +5,8 @@ namespace Test
 {
     internal static class Program
     {
-        /// <summary>
-        /// Главная точка входа для приложения.
-        /// </summary>
+        public static string connectionString = "Server = DESKTOP-P952G38\\SQLEXPRESS; Database = cafe; Trusted_Connection = true;";
+
         [STAThread]
         static void Main()
         {

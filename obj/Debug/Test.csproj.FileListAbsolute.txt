@@ -9,3 +9,14 @@ E:\Учёба\Test\obj\Debug\Test.csproj.GenerateResource.cache
 E:\Учёба\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
 E:\Учёба\Test\obj\Debug\Test.exe
 E:\Учёба\Test\obj\Debug\Test.pdb
+E:\Study\Test\bin\Debug\Test.exe.config
+E:\Study\Test\bin\Debug\Test.exe
+E:\Study\Test\bin\Debug\Test.pdb
+E:\Study\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+E:\Study\Test\obj\Debug\Test.Form1.resources
+E:\Study\Test\obj\Debug\Test.Form2.resources
+E:\Study\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Study\Test\obj\Debug\Test.csproj.GenerateResource.cache
+E:\Study\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Study\Test\obj\Debug\Test.exe
+E:\Study\Test\obj\Debug\Test.pdb

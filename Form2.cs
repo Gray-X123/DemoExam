@@ -7,8 +7,6 @@ namespace Test
 {
     public partial class Form2 : Form
     {
-        readonly string connectionString = "Server = DESKTOP-P952G38; Database = db; Trusted_Connection = true;";
-
         public Form2()
         {
             InitializeComponent();
@@ -17,7 +15,8 @@ namespace Test
 
         private void button3_Click(object sender, EventArgs e) // Изменения в БД смотря на dataGridView
         {
-            using (SqlConnection connection = new SqlConnection(connectionString))
+            DataTable dt = new DataTable();
+            using (SqlConnection connection = new SqlConnection(Program.connectionString))
             {
                 using (SqlDataAdapter adapter = new SqlDataAdapter($"select * from {comboBox1.Text}", connection))
                 {
@@ -39,11 +38,29 @@ namespace Test
             Application.Exit();
         }
 
-        private void comboBox1_SelectedIndexChanged(object sender, System.EventArgs e) // Вывод данных
+        // Роли
+        public void Admin() // Администратор
+        {
+            comboBox1.Items.Add("workers");
+            comboBox1.Items.Add("orders");
+            comboBox1.Items.Add("cahnges");
+        }
+
+        public void Sealer() // Повар
+        {
+            comboBox1.Items.Add("orders");
+        }
+
+        public void Client() // Официант
+        {
+            comboBox1.Items.Add("orders");
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             DataTable dt = new DataTable();
             string queryString = $"select * from {comboBox1.Text}";
-            using (SqlConnection connection = new SqlConnection(connectionString))
+            using (SqlConnection connection = new SqlConnection(Program.connectionString))
             {
                 using (SqlDataAdapter adapter = new SqlDataAdapter(queryString, connection))
                 {
@@ -57,30 +74,6 @@ namespace Test
 
             dataGridView1.DataSource = dt;
             dataGridView1.Columns[0].ReadOnly = true;
-        }
-
-        private void comboBox1_KeyPress(object sender, KeyPressEventArgs e) // Запрещает ввод в comboBox с клавиатуры
-        {
-            e.Handled = true;
-        }
-
-        // Роли
-        public void Admin() // Администратор
-        {
-            comboBox1.Items.Add("workers");
-            comboBox1.Items.Add("table_1");
-            comboBox1.Items.Add("table_2");
-        }
-
-        public void Sealer() // Продавец
-        {
-            comboBox1.Items.Add("table_1");
-            comboBox1.Items.Add("table_2");
-        }
-
-        public void Client() // Клиент
-        {
-            comboBox1.Items.Add("table_2");
         }
     }
 }

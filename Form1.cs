@@ -6,8 +6,6 @@ namespace Test
 {
     public partial class Form1 : Form
     {
-        readonly string connectionString = "Server = DESKTOP-P952G38; Database = db; Trusted_Connection = true;";
-
         public Form1()
         {
             InitializeComponent();
@@ -15,7 +13,7 @@ namespace Test
 
         private void button1_Click(object sender, EventArgs e) // Авторизация
         {
-            using (SqlConnection connection = new SqlConnection(connectionString))
+            using (SqlConnection connection = new SqlConnection(Program.connectionString))
             {
                 string sqlQuery = $"select role from workers where [Login] = '{textBox1.Text}' and [Password] = '{textBox2.Text}'";
                 using (SqlCommand command = new SqlCommand(sqlQuery, connection))
