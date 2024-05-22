@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "E:\\Study\\Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|E:\\Study\\Test\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|e:\\study\\test\\formdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|solutionrelative:formdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|E:\\Study\\Test\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|e:\\study\\test\\formorganizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|solutionrelative:formorganizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|e:\\study\\test\\formorganizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|solutionrelative:formorganizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|e:\\study\\test\\formdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|solutionrelative:formdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|e:\\study\\test\\formauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|solutionrelative:formauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|e:\\study\\test\\formworkeradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|solutionrelative:formworkeradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|e:\\study\\test\\formworkeradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|solutionrelative:formworkeradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|E:\\Study\\Test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|e:\\study\\test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|e:\\study\\test\\formtechnician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|solutionrelative:formtechnician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|E:\\Study\\Test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|e:\\study\\test\\formtechnician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|solutionrelative:formtechnician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|e:\\study\\test\\formauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9DC1CA-27E0-4DC8-8634-EF61A47D4781}|Test.csproj|solutionrelative:formauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,63 +62,138 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Study\\Test\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\Study\\Test\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T17:49:02.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "E:\\Study\\Test\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "E:\\Study\\Test\\Form2.cs",
-              "RelativeToolTip": "Form2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T15:53:15.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "E:\\Study\\Test\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "E:\\Study\\Test\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T11:19:08.824Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\Study\\Test\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\Study\\Test\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "DocumentIndex": 4,
+              "Title": "FormAuthorization.cs",
+              "DocumentMoniker": "E:\\Study\\Test\\FormAuthorization.cs",
+              "RelativeDocumentMoniker": "FormAuthorization.cs",
+              "ToolTip": "E:\\Study\\Test\\FormAuthorization.cs",
+              "RelativeToolTip": "FormAuthorization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T11:03:39.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "E:\\Study\\Test\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\Study\\Test\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentIndex": 3,
+              "Title": "FormDirector.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\Study\\Test\\FormDirector.cs",
+              "RelativeDocumentMoniker": "FormDirector.cs",
+              "ToolTip": "E:\\Study\\Test\\FormDirector.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormDirector.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:35:24.446Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormOrganizer.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\Study\\Test\\FormOrganizer.cs",
+              "RelativeDocumentMoniker": "FormOrganizer.cs",
+              "ToolTip": "E:\\Study\\Test\\FormOrganizer.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormOrganizer.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:34:32.253Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Study\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Study\\Test\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:49:02.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormWorkerAdd.cs",
+              "DocumentMoniker": "E:\\Study\\Test\\FormWorkerAdd.cs",
+              "RelativeDocumentMoniker": "FormWorkerAdd.cs",
+              "ToolTip": "E:\\Study\\Test\\FormWorkerAdd.cs",
+              "RelativeToolTip": "FormWorkerAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:20:06.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormTechnician.cs",
+              "DocumentMoniker": "E:\\Study\\Test\\FormTechnician.cs",
+              "RelativeDocumentMoniker": "FormTechnician.cs",
+              "ToolTip": "E:\\Study\\Test\\FormTechnician.cs",
+              "RelativeToolTip": "FormTechnician.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwDsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:35:59.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormDirector.cs",
+              "DocumentMoniker": "E:\\Study\\Test\\FormDirector.cs",
+              "RelativeDocumentMoniker": "FormDirector.cs",
+              "ToolTip": "E:\\Study\\Test\\FormDirector.cs",
+              "RelativeToolTip": "FormDirector.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:43:34.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormOrganizer.cs",
+              "DocumentMoniker": "E:\\Study\\Test\\FormOrganizer.cs",
+              "RelativeDocumentMoniker": "FormOrganizer.cs",
+              "ToolTip": "E:\\Study\\Test\\FormOrganizer.cs",
+              "RelativeToolTip": "FormOrganizer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:49:43.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormWorkerAdd.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\Study\\Test\\FormWorkerAdd.cs",
+              "RelativeDocumentMoniker": "FormWorkerAdd.cs",
+              "ToolTip": "E:\\Study\\Test\\FormWorkerAdd.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormWorkerAdd.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:05:27.189Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormTechnician.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\Study\\Test\\FormTechnician.cs",
+              "RelativeDocumentMoniker": "FormTechnician.cs",
+              "ToolTip": "E:\\Study\\Test\\FormTechnician.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormTechnician.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:35:49.131Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormAuthorization.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\Study\\Test\\FormAuthorization.cs",
+              "RelativeDocumentMoniker": "FormAuthorization.cs",
+              "ToolTip": "E:\\Study\\Test\\FormAuthorization.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormAuthorization.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T10:55:14.53Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"

@@ -1,47 +1,44 @@
-create database cafe 
+create database botan
+on 
+(
+	name = botan,
+	filename = 'I:\Demo\БД\botan.mdf' -- Путь должен быть свой
+)
+log on 
+(
+	name = botan_log,
+	filename = 'I:\Demo\БД\botan_log.ldf' -- Путь должен быть свой
+)
+collate Cyrillic_General_CI_AS
 go
-use cafe 
+use botan
 
-create table workers 
+create table workers
 (
 	idWorker int primary key identity (1,1) not null,
 	[Name] nvarchar(50) not null,
-	[Role] nvarchar(15) not null,
+	[Role] nvarchar(20) not null,
 	[Login] nvarchar(25) unique not null,
 	[Password] nvarchar(25) not null,
-	[Status] bit not null
-)
-
-create table orders 
-(
-	idOrder int primary key identity (1,1) not null,
-	[Name] nvarchar(50) not null,
-	[Status] bit not null,
-	Place int not null,
-	People int not null,
+	Dissamble bit default 0 not null
 )
 
 create table [changes]
 (
+	idChanges int primary key identity (1,1) not null,
 	idWorker int foreign key references workers(idWorker) not null,
-	[Name] nvarchar(50) not null
+	[Name] nvarchar(10) not null
 )
 
-insert into workers values ('sakerjbgn', 'Администратор', 'admin', 'admin', 1)
-insert into workers values ('sakerjbgn', 'Повар', 'a', 'a', 1)
-insert into workers values ('sakerjbgn', 'Повар', 'b', 'b', 1)
-insert into workers values ('sakerjbgn', 'Повар', 'c', 'c', 1)
-insert into workers values ('sakerjbgn', 'Официант', 'd', 'd', 1)
+create table orders
+(
+	idOrder int primary key identity (1,1) not null,
+	nameClient nvarchar(50) not null,
+	Phone nvarchar(15) not null,
+	Gotovnost bit default 0 not null,
+	Prinat bit default 0 not null
+)
 
-insert into [changes] values (1, '1 смена')
-insert into [changes] values (2, '1 смена')
-insert into [changes] values (3, '1 смена')
-insert into [changes] values (4, '1 смена')
-insert into [changes] values (5, '1 смена')
-
-insert into orders values ('odrash', 0, 1, 1)
-insert into orders values ('hrtweb', 0, 1, 1)
-insert into orders values ('vwtr', 0, 1, 1)
-insert into orders values ('wrtv', 0, 1, 1)
-insert into orders values ('sadfg', 0, 1, 1)
-
+insert into workers values ('aeh', 'Заведующий', 'admin', 'admin', 0)
+insert into workers values ('aeh', 'Техник', 'teh', 'teh', 0)
+insert into workers values ('aeh', 'Организатор', 'org', 'org', 0)
